@@ -1,4 +1,3 @@
-
 ###
 
 ![Header](./github-header-image.png)
@@ -28,10 +27,6 @@
 
 </div>
 
-<!---
-<p align="left"> <img src="https://gitlab-readme-stats.vercel.app/api?username=butlt2&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
---->
-
 ###
 
 <h2 align="center">Techs I Use</h2>
@@ -48,3 +43,25 @@
 
 
 ###
+
+<h2 align="center">Projects</h2>
+
+###
+
+<div align="center">
+  <h3>
+    Schwimmklub Worb
+  </h3>
+  
+  ![Preview](./source/SKWorb.png)
+  
+  https://skworb.ch
+
+  <h3>
+    Helfen helfen Schweiz
+  </h3>
+  
+  ![Preview](./source/Logo_he_mit_Signet.svg)
+  
+  https://www.helfen-helfen.swiss
+</div>
