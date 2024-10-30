@@ -1,6 +1,6 @@
 ###
 
-![Header](./github-header-image.png)
+![Header](./source/github-header-image.png)
 
 ###
 
