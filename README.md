@@ -22,11 +22,11 @@
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LtLinux&theme=bear" width=750  alt="stats graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tbuetler&theme=bear" width=750  alt="stats graph"/>
   
-  ![My GitHub](https://github-readme-stats.vercel.app/api?username=LtLinux&count_private=true&theme=dark&show_icons=true)
+  ![My GitHub](https://github-readme-stats.vercel.app/api?username=tbuetler&count_private=true&theme=dark&show_icons=true)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LtLinux&count_private=true&hide=html&langs_count=6&exclude_repo=flake-os,oat-compiler&theme=dark&show_icons=true&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbuetler&count_private=true&hide=html&langs_count=6&exclude_repo=flake-os,oat-compiler&theme=dark&show_icons=true&layout=compact)
 
 </div>
 
