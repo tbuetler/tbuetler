@@ -18,8 +18,18 @@
 <h2 align="center">My Stats</h2>
 --->
 ###
+<div align="center">
+  <h1>
+    Countdown 'til Advent of Code
+  </h1>
+  
+  <img src="https://i.countdownmail.com/3o5pgx.gif" border="0" alt="countdownmail.com"/> 
+</div>
+
+###
 
 <div align="center">
+
   <!---
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tbuetler&theme=bear" width=750  alt="stats graph"/>
   --->
