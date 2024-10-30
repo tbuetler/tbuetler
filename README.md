@@ -39,8 +39,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
 </div>
 
-### Now Playing 🎧
+
+###
+
+<h2 align="center">Now Playing 🎧</h2>
 
 <div align="center">
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/tvk92c8upv0qzt3i0pocnkxq3?si=TRw8DkBYSbWJbzEs0hEpNw)
+  <a href="https://open.spotify.com/user/tvk92c8upv0qzt3i0pocnkxq3?si=TRw8DkBYSbWJbzEs0hEpNw">
+    <img src="https://github-readme-remake.vercel.app/api/spotify?username=tvk92c8upv0qzt3i0pocnkxq3" alt="Spotify Now Playing" />
+  </a>
 </div>
+
