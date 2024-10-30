@@ -41,12 +41,3 @@
 
 
 ###
-
-<h2 align="center">Now Playing 🎧</h2>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/tvk92c8upv0qzt3i0pocnkxq3?si=TRw8DkBYSbWJbzEs0hEpNw">
-    <img src="https://github-readme-remake.vercel.app/api/spotify?username=tvk92c8upv0qzt3i0pocnkxq3" alt="Spotify Now Playing" />
-  </a>
-</div>
-
