@@ -20,10 +20,11 @@
 ###
 <div align="center">
   <h1>
-    Countdown 'til Advent of Code
+    Countdown until Advent of Code
   </h1>
   
-  <img src="https://i.countdownmail.com/3o5pgx.gif" border="0" alt="countdownmail.com"/> 
+ <img src="https://i.countdownmail.com/3o5pgx.gif" border="0" alt="countdownmail.com"/> 
+ 
 </div>
 
 ###
