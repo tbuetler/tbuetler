@@ -5,20 +5,12 @@
 
 ###
 
-<h2 align="center">About Me</h2>
-
-###
-
-🤖 I love learning about the Linux OS.\
-💻 I am constantly seeking out new technologies and learning about them.\
-🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.\
-🌟 In my leisure time, I enjoy exploring the nature or skiing.
-###
-
-<h2 align="center">My Stats</h2>
 --->
 
+<h2 align="center">My Stats</h2>
+
 ###
+
 <div align="center">
 
 ![My GitHub](https://github-readme-stats.vercel.app/api?username=tbuetler&show_icons=true&theme=dark)
