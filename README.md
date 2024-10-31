@@ -21,8 +21,8 @@
 ###
 <div align="center">
 
-![My GitHub](https://github-readme-stats.vercel.app/api?username=tbuetler&count_private=true&theme=dark&show_icons=true&v=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbuetler&count_private=true&hide=html&langs_count=6&exclude_repo=flake-os,oat-compiler&theme=dark&show_icons=true&layout=compact&v=2)
+![My GitHub](https://github-readme-stats.vercel.app/api?username=tbuetler&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbuetler&layout=compact&theme=dark&show_icons=true)
 
 </div>
 
