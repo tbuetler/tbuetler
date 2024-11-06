@@ -1,11 +1,4 @@
-<!---
 ###
-
-![Header](./source/github-header-image.png)
-
-###
-
---->
 
 <h2 align="center">My Stats</h2>
 
