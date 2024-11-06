@@ -6,8 +6,8 @@
 
 <div align="center">
 
-![My GitHub](https://github-readme-stats.vercel.app/api?username=tbuetler&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbuetler&layout=compact&theme=dark&show_icons=true)
+[![My GitHub](https://github-readme-stats.vercel.app/api?username=tbuetler&show_icons=true&theme=dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbuetler)](https://github.com/buetler/github-readme-stats)
 
 </div>
 
