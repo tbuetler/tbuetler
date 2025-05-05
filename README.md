@@ -56,12 +56,4 @@
   ![Preview](./source/SKWorb.png)
   
   https://skworb.ch
-
-  <h3>
-    Helfen helfen Schweiz
-  </h3>
-  
-  ![Preview](./source/Logo_he_mit_Signet.svg)
-  
-  https://www.helfen-helfen.swiss
 </div>
