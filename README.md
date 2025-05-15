@@ -17,7 +17,8 @@
 
 <div align="center">
   
-### :books: I'm currently learning
+<!--- ### :books: I'm currently learning
+--->
   
   
 
