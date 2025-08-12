@@ -7,20 +7,15 @@
 <div align="center">
 
 [![My GitHub](https://github-readme-stats.vercel.app/api?username=tbuetler&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbuetler&show_icons=true&theme=dark)](https://github.com/buetler/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbuetler&hide=css&show_icons=true&theme=dark)](https://github.com/buetler/github-readme-stats)
 
 </div>
 
 ###
 
-<h2 align="center">Techs I Use</h2>
+<h2 align="center">Techs I learned</h2>
 
 <div align="center">
-  
-<!--- ### :books: I'm currently learning
---->
-
-### :file_folder: Learned technologies
   
   <img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" height="40" width="52" alt="x86 assembly logo" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" heigth="40" width="52" alt="java logo" />
@@ -47,6 +42,16 @@
 <h2 align="center">Projects</h2>
 
 ###
+
+<div align="center">
+  <h3>
+    CyBär:bern
+  </h3>
+  
+  ![Preview](./source/cybaer-bern.png)
+  
+  https://cybaer-bern.ch
+</div>
 
 <div align="center">
   <h3>
